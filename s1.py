@@ -1,0 +1,8 @@
+
+
+hoge = "おれ"
+print (hoge)
+
+
+
+
